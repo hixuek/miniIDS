@@ -36,14 +36,14 @@
 ## 系统要求
 
 - Python 3.7+
-- Linux/Unix 系统（需要root权限）
+- Linux系统（需要root权限）
 - 支持的网络接口
 
 ## 安装步骤
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/HoshinoRyo/miniIDS.git
+git clone https://github.com/hixuek/miniIDS.git
 cd miniIDS
 ```
 
